@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890844548866",
+    "firebase_url": "https://indian-recipes-c215d.firebaseio.com",
+    "project_id": "indian-recipes-c215d",
+    "storage_bucket": "indian-recipes-c215d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890844548866:android:b26056a485ac8a61ea3c1b",
+        "android_client_info": {
+          "package_name": "com.example.indianrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890844548866-jhth6e095p3iepdjf7mdukf5fke10g31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indianrecipes",
+            "certificate_hash": "54eb4b610fabfc1aa7a18bb9453eb6b46c3ffc4a"
+          }
+        },
+        {
+          "client_id": "890844548866-glmju6tiirfbav1c5c1pr2bj6d1t3mv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmkTjQ5bESRqGqM5xnK9nTVCZtQFnQaBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890844548866-glmju6tiirfbav1c5c1pr2bj6d1t3mv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
